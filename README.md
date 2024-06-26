@@ -37,6 +37,7 @@ Visualization:
 
 Scatter plot with average price on the x-axis and total earnings on the y-axis.
 Trend line to show the correlation between price and earnings.
+
 3. Locations (Shores) with the Highest Earnings
 Objective: Determine which locations (shores) generate the most earnings.
 
@@ -47,6 +48,7 @@ Calculate the total earnings for each location.
 Identify the locations with the highest earnings.
 Visualization:
 Bar chart showing earnings by location.
+
 4. Relationship Between Price and Reviews
 Objective: Explore how the price of a property impacts its reviews.
 
